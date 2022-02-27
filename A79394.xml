@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Charles his summons sent to the Lord Admiral, to take down his standard, and come under his Highnesse obedience. And the Earl of Warwicks answer, and resolution to bear it still for the Parliament, against all opposition whatsoever. Also the proceedings of both navies to an ingagement and a list of the names of the members of both Houses of Parliament, the ministers, and others, that are to go to the Isle of Wight, on both sides, about the treaty with his Majesty for peace.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79394</idno>
+            <idno type="STC">Wing C3609</idno>
+            <idno type="STC">Thomason E462_4</idno>
+            <idno type="STC">ESTC R205061</idno>
+            <idno type="EEBO-CITATION">99864503</idno>
+            <idno type="PROQUEST">99864503</idno>
+            <idno type="VID">116733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116733)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Charles his summons sent to the Lord Admiral, to take down his standard, and come under his Highnesse obedience. And the Earl of Warwicks answer, and resolution to bear it still for the Parliament, against all opposition whatsoever. Also the proceedings of both navies to an ingagement and a list of the names of the members of both Houses of Parliament, the ministers, and others, that are to go to the Isle of Wight, on both sides, about the treaty with his Majesty for peace.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+               </titleStmt>
+               <extent>[2], 9 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 9.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116733:1" rendition="simple:additions"/>
+            <p>
+               <hi>Prince CHARLES</hi> HIS SUMMONS Sent to the Lord Admiral, to take down his Standard, and come under his Highneſſe Obedience.</p>
+            <p>And the Earl of <hi>Warwicks</hi> Anſwer, and reſolu<g ref="char:EOLhyphen"/>tion to bear it ſtill for the Parliament, againſt all op<g ref="char:EOLhyphen"/>poſition whatſoever.</p>
+            <p>
+               <hi>Alſo the proceedings of both Navies to an ingagement</hi> And a Liſt of the names of the Members of both Houſes of Parliament, the Miniſters, and others, that are to go to the Iſle of WIGHT, on both ſides, about the Treaty with his Majeſty for peace.</p>
+            <figure>
+               <figDesc>depiction of a seventeenth-century warship</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Smithurſt,</hi> neer Pye-corner, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116733:2"/>
+            <head>A LETTER FROM The Navy of the proceedings of the Parliaments ſhips, under the Lord ADMIRALL, Againſt the Revolted SHIPS with Prince <hi>CHARLES.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord Admiral ſent out Orders for thoſe Ships at <hi>Portſmouth,</hi> to haſten out to meet his Lordſhip in the <hi>Downes,</hi> and then put forth with thoſe in the Channell with his Lord<g ref="char:EOLhyphen"/>ſhip:
+<pb n="2" facs="tcp:116733:3"/>6 men of War, and 3 additionall Ships, came out from <hi>Portſmouth,</hi> his Lordſhip hath 12, that is 21. and (I beleeve they will be compleated 30. when all are joyned. I have ſent you (here incloſed) Prince <hi>Charles</hi> his Summons to the Lord Admirall, and his Lordſhips gallant Anſwer. Our ſhips faced the Prince ſailing up within one League of them, but then there rize ſuch a ſtorme, that the Revolted ſhips ſailed Northward. But whether they will advance back a<g ref="char:EOLhyphen"/>gain, or not, I know not; So ſoon as thoſe from <hi>Portſmouth</hi> are joyned, his Lordſhip will cleare the Seas for free Trading, ſo, as either to engage them, or force them away.</p>
+            <closer>
+               <dateline>Dated at the <hi>Naſſe,</hi> 
+                  <date>1 September, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>Prince</hi> Charles <hi>his Summons to the Earl of</hi> War<g ref="char:EOLhyphen"/>wick, <hi>Lord High Admirall of the Par<g ref="char:EOLhyphen"/>liaments</hi> NAVY.</head>
+            <head>Sent by <hi>Mr. Seamor,</hi> one of his Bed-chamber.</head>
+            <p>HIs Highneſſe the Prince of <hi>Wales</hi> having ob<g ref="char:EOLhyphen"/>ſerved a Standard which hath been borne by this Fleet, doth require the Admirall, or chief Commander thereof, to take notice that his High<g ref="char:EOLhyphen"/>neſſe is preſent here, and doth command him to take down his Standard, and to come under his Highneſſe obedience, for the ſetling of the peace of his Majeſties Dominions, wherein, if his Highneſſe ſhall find a rea<g ref="char:EOLhyphen"/>dy
+<pb n="3" facs="tcp:116733:3"/>compliance, he doth engage himſelfe, not only to receive compliance of all ſuch as ſhall now return to his Majeſties obedience, but alſo to receive them in<g ref="char:EOLhyphen"/>to his favour, And I promiſe to continue them in im<g ref="char:EOLhyphen"/>ployment: As perſons that (out of obedience to his Highneſſe his Summons) doe declare their good affe<g ref="char:EOLhyphen"/>ctions to his <hi>Majeſty.</hi> And the peace of the Kingdom.</p>
+            <closer>
+               <dateline>Given in the Downs, <date>Auguſt 29. 1648.</date>
+               </dateline> 
+               <signed>CHARLES P.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Admirall, or chiefe Commander of the Fleet.</head>
+            <head type="sub">
+               <hi>The Lord Admiralls Anſwer returned to Prince</hi> Charles.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe,</salute>
+            </opener>
+            <p>I Am appointed by both Houſes of the Parliament of <hi>England,</hi> to be Lord Admirall of <hi>England,</hi> by which right I bear this Standard. And (God willing) ſhall continue to bear it, during the pleaſure of the Parliament, notwithſtanding the oppoſition of any perſon whatſoever, and as for the ſetling of the Peace of the Kingdome, I muſt referre it to the wiſ<g ref="char:EOLhyphen"/>dom of the two Houſes of Parliament, who (I know) are now in a way to effect it, if they be not therein di<g ref="char:EOLhyphen"/>ſturbed; And this is all that I can return to your High<g ref="char:EOLhyphen"/>neſſe, by way of Anſwer to your Paper, who am,</p>
+            <closer>
+               <dateline>Naſſe, <date>29 Aug. 1648.</date>
+               </dateline>
+               <signed>Your Highneſſe Servant, WARWICK.</signed>
+            </closer>
+         </div>
+         <div type="list_of_the_Kings_retinue">
+            <head>A Liſt of the Lords, Commoners, and others, that are to goe to the Iſle of <hi>Wyght,</hi> about the Treaty with his Majeſty.</head>
+            <list>
+               <pb n="4" facs="tcp:116733:4"/>
+               <head>1. Thoſe to be with the King, deſired by His Majeſty, are agreed to by both Houſes.</head>
+               <item>
+                  <list>
+                     <head>Gentlemen of my Bedchamber,</head>
+                     <item>Duke Richmond,</item>
+                     <item>Marq. Hertford,</item>
+                     <item>Earle Lindſey,</item>
+                     <item>Earl Southampton.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Groomes of my Bedchamber,</head>
+                     <item>George Kirk,</item>
+                     <item>James Levenſton,</item>
+                     <item>Hen<g ref="char:EOLhyphen"/>ry Murrey.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>My Barber,</head>
+                     <item>Thomas Davis.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Pages of my back-ſtaires.</head>
+                     <item>Hugh Henne,</item>
+                     <item>Humphrey Rogers,</item>
+                     <item>Wil<g ref="char:EOLhyphen"/>liam Levett.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Yeoman of my Robes.</head>
+                     <item>Rives.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Querries, with four or ſix of my Footmen, as they find fitteſt to waite.</head>
+                     <item>Sir Edward Sidenham,</item>
+                     <item>Robert Terwin,</item>
+                     <item>John Houſdon,</item>
+                  </list>
+               </item>
+               <pb n="5" facs="tcp:116733:4"/>
+               <item>
+                  <list>
+                     <head>My Laundreſſe,</head>
+                     <item>Miſtreſſe Wheeler, with ſuch Maids as ſhe ſhall chuſe.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>A Groom of my preſence,</head>
+                     <item>Parſons.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>To wait as they did, or as I ſhall appoint them</head>
+                     <item>Sir Foulke Grevill,</item>
+                     <item>Captain Titus,</item>
+                     <item>Cap<g ref="char:EOLhyphen"/>tain Boroughs,</item>
+                     <item>Mr. Creſſett,</item>
+                     <item>Halſtid,</item>
+                     <item>Fierbrace.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>My Chaplains.</head>
+                     <item>Biſhop of London,</item>
+                     <item>Biſhop of Salisbury,</item>
+                     <item>Doctor Hamond,</item>
+                     <item>Doctor Saunderſon,</item>
+                     <item>Do<g ref="char:EOLhyphen"/>ctor Turner,</item>
+                     <item>Doctor Haywood.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Lawyers,</head>
+                     <item>Sir Thomas Gardner,</item>
+                     <item>Sir Or. Bridgeman,</item>
+                     <item>Mr. Ieffery Palmer,</item>
+                     <item>Mr. Thomas Cook,</item>
+                     <item>Mr. Iohn Vaughan.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Clerks and Writers.</head>
+                     <item>Sir Edward Walker,</item>
+                     <item>Mr. Phil. Walker,</item>
+                     <item>Nich. Oudart,</item>
+                     <item>Charles Whittacre.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>To make ready the Houſe for Treating,</head>
+                     <item>Peter Newton,</item>
+                     <item>Clem. Kenerſley.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="6" facs="tcp:116733:5"/>
+               <head>2 A Liſt of thoſe from the Parlia<g ref="char:EOLhyphen"/>ment to Treate.</head>
+               <item>
+                  <list>
+                     <head>1 The Commiſſioners of the Lords Houſe,</head>
+                     <item>The Earle of <hi>Northumberland,</hi>
+                     </item>
+                     <item>The Earle of <hi>Pembrooke</hi> and <hi>Mountgomery,</hi>
+                     </item>
+                     <item>The Earle of <hi>Salisbury,</hi>
+                     </item>
+                     <item>The Earle of <hi>Middleſex.</hi>
+                     </item>
+                     <item>The Viſcount Sea and Seale.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>2 Commiſsioners of the Houſe of Commons.</head>
+                     <item>The Lord <hi>Waynman</hi>
+                     </item>
+                     <item>Sir <hi>Harbottle Grimſtone,</hi>
+                     </item>
+                     <item>Sir <hi>John Potts,</hi>
+                     </item>
+                     <item>Sir <hi>Henry Vaine</hi> junior.</item>
+                     <item>
+                        <hi>Mr. William Perepoint</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Samuell Browne.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Denzell Hollis,</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Crew,</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Bulkley.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Recorder.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>3 Miniſters of Gods Word to goe with the Com<g ref="char:EOLhyphen"/>miſsioners</head>
+                     <item>
+                        <hi>Mr. Herle.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr, Marſhall.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Vines.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Seymer.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
